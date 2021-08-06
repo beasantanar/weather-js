@@ -1,8 +1,7 @@
-<div align="center" id="top"> 
-  ![Print da tela](weather.png)
+<h1 align="center">Clima - JS</h1><div align="center" id="top">
+  
+  <img src="https://user-images.githubusercontent.com/72886481/128569270-e93d449d-8046-4dc0-ba8b-3a4a47721d77.png" alt="Clima em São Paulo"/>
 </div>
-
-<h1 align="center">Clima - JS</h1>
 
 <p align="center">
   <a href="#dart-about">Sobre</a> &#xa0; | &#xa0; 
